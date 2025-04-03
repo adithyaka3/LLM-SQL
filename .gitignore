@@ -1,0 +1,3 @@
+#ignoring all csv files and xlsx files which are provided in team
+*.csv
+*.xlsx
