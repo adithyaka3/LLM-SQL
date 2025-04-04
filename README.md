@@ -40,3 +40,6 @@ With a larger dataset, consider using RoBERTa or DeBERTa for better accuracy. Bo
 Additionally, applying **PEFT** or **LoRA** hyperparameter fine-tuning could enhance the model's efficiency and results, especially for large transformer models like RoBERTa and DeBERTa.
 
 
+Relevant links:
+[multi-qa-mpnet-base-dot-v1](https://huggingface.co/sentence-transformers/multi-qa-mpnet-base-dot-v1)
+[Other models](https://www.sbert.net/docs/sentence_transformer/pretrained_models.html)
